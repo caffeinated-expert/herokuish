@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse("python-django\n")
+    return HttpResponse("Powered by Deis\n")
